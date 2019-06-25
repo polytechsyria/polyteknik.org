@@ -1,57 +1,76 @@
-    1. Hardware. If we do not possess the base of the system, we cannot trust the technology. We must from the low level until the high level know and control the entire technology. If there is a piece outside of our hands, then we are under the control of that technology.
-        1. The principles of our tools are based on:
-            1. Big and complex parts are composed from modular components.
-            2. Every module has a simple implementation with one function. Every person can easily understand its construction.
-            3. The plans and source for our tools are are open, with no pointless barriers for understanding its functioning.
-        2. Handheld devices like modular telephones.
-        3. Network tools like router, open source tools for our networks.
-        4. Creating electronic tools of every kind according to our work.
-    2. General network for the people of North Syria. This network is managed by the Wireless Commons License.
-        1. This network allows internet to be shared, and access to services that don’t require internet. Every person in North Syria can access and join the society project. This services are for governance, education .etc
-        2. Special centers in every area for accessing internet and our network. For example in the art & culture centers.
-        3. For areas which are far from major cities such as villages, we can create special devices which give network access through long distance radio and create a local village hotspot. This is good for villagers who are far, whereby they can follow the news from other regions, talk with their friends from other areas, with our material available on the network educate themselves, and find out about events and festivals in every areas.
-        4. The network is the basis of our programme and system. In this environment, the people can with our softwar join the democratic nation project. In this way we reduce their obstacles for political and social participation.
-    3. An operating system in Arabic and Kurdish.
-        1. Decentralized file sharing system integrated into the operating system allowing people to easily collaborate on projects.
-        2. We will load it with all programs for local media work, like video editing, audio editing, image editing, document & office software .etc All with Kurdish and Arabic languages.
-        3. Automatic rollback filesystem, which saves the entire history of files allowing recovery or easy reversion.
-    4. Mixnetwork for anonymizing people’s traffic, protecting them for network analysis by the state.
-        1. The state cannot target individuals because all network traffic looks like noise, and there is no map of the network.
-        2. The system guarantees that everybody is automatically secure with little effort from the user.
-    5. Organization of network operators. They are responsible for general management of the network. If there’s a problem, they are responsible for quickly solving it, and also for giving assistance to users.
-        1. Sysops work on the network and running of network services. They manage subsystems and review the system’s operation that it can run efficiently and effectively.
-        2. Examples of services:
-            1. Sharing of files with all people or only a few people in a secure way.
-            2. Organizing projects, managing work, programs for organization and reaching project goals.
-            3. Managing translation work.
-            4. Programs for decision making and negotiation.
-            5. Database for accounting and statistical information of economic projects.
-    6. Framework for creating cryptographic and decentralized programs. People with a lower level of technical knowledge can quickly create new systems with few problems. But this framework gives them access to many special code libraries with complex algorithms in an easy to use way. This method allows us a faster possibility for creating many complex systems with wide functionality. In this way smart young people without lots of deep technical knowledge can assist in developing this project.
-        1. Framework for decentralized and cryptographic systems.
-        2. Society with a collective manner can manage its own resources. This opens an opportunity for the people to affect society.
-    7. Anonymous decentralized software:
-        1. With cryptocurrency, we can reduce the cost of transactions to below 0.5%. The flow of currency is outside control of the state and anonymous, allowing the citizens of North Syria to freely transact amongst themselves.
-        2. System for decentralized elections whereby everybody can express their voice democratically and participate politically.
-        3. System for collective ownership of resources, with incentive mechanisms such as an exchange for leverage of assets allowing for example farmers to gain investment in new agriculture projects.
-        4. Systems to allow people to monitor political processes and their results.
-        5. Programs for project management, distribution of work and aggregating information.
-        6. Groups can quickly without issues self organize for societal projects.
-        7. Algorithmic legal systems whereby results are quickly made in a process that doesn’t rely on multiple people.
-        8. Cryptocurrency for establishing social projects. For example a city municipality can create its own currency, which people in the city use, as usage of the currency increases, the city is able to use that value for supporting infrastructure projects.
-        9. System for distribution of products in the society. People can in an easy way find local products throughout the canton, and the system self organizes distribution of these products. Financial tools increase the effectiveness of the cooperative.
-        10. Mechanisms for strengthening the democratic nation project. We are researching new ideas from around the world, to start modern projects. Technology from North Syria will become famous around the world.
-    8. Academies for spreading technical knowledge. In art & culture centers of every city, there will be organized regular seminars on the latest world developments in technology.
-        1. A large organized group of volunteers through the society which work on social projects.
-        2. From this large group, we will find good people with will, knowledge and philosophy.
-    9. Technology for ecological industry. With digital platforms, knowledge is spread, and an industrial base is created.
-    10. Autonomous machines for agriculture, researching information for increasing the efficiency of our systems.
-        1. Evaluating the genetics of agriculture, creating an information bank. Automatic monitoring of the quality of agriculture products.
-        2. Systems that gather information and give us knowledge, for example when to optimally water plans. Systems that work with statistical and mathematical analysis.
-    11. Autonomous system for communication and economic activity without the internet.
-    12. Media and media technology
-        1. Researching the interaction of human behaviour, media and technology. How we can use media for distributing new concepts and images.
-        2. Services for media work
-        3. Special group concerned with media and technology
-            1. Infrastructure for media archives
-            2. Special effects for media (SFX)
-            3. Small scripting and programming
+1. Hardware
+
+If we do not control the underlying mechanics of the system, we cannot trust the technology. We must know the entire technology from the lowest level. If there is a piece outside of our hands, we have lost control, as it is the technology that is in control of us.
+
+Our hardware is constructed with the following technological principles:
+    • Big and complex parts are composed of modular components.
+    • Every module has a simple implementation with one function. Every person can easily understand its construction.
+    • The plans and source for our tools are open, with no unnecessary barriers in place to understand their functioning.
+
+Projects include handheld devices like modular telephones, network tools such as routers and other open source network tools, as well as other electronic devices we require for our work.
+
+2. Network
+
+We will create a general network for the people of North Syria that is managed under the Wireless Commons License. This network allows internet to be shared, and gives access to services that don’t require internet. Every person in North Syria can access and join the society project. Services provided on the network can be used for governance, information, education etc.
+
+We will supply special centres in every area for accessing the internet and our network, for example in art & culture centres.
+
+For areas which are far from major cities such as villages, we can create special devices which give network access through long distance radio and create a local village hotspot. Villagers can follow news from other regions, talk with friends from other areas, find out about events and festivals throughout North Syria, and educate themselves with the provided material.
+
+The network forms the basis of our program. In this environment, the people can join the democratic nation project using our software. In this way we reduce their obstacles for political and social participation.
+
+Network operators are responsible for general management of the network. If there’s a problem, they are responsible for quickly solving it, and also for giving assistance to users. Sysops work on the network and run network services. They manage subsystems and review the system’s operation that it can run efficiently and effectively.
+
+Examples of services:
+    • Sharing of files with everyone or a select group of people in a secure way.
+    • Organizing projects, managing work, programs for organization and reaching project goals.
+    • Managing translation work.
+    • Programs for decision making and negotiation.
+    • Database for accounting and statistical information of economic projects.
+    
+We are also researching an autonomous system for communication and economic activity without the internet.
+
+4. Operating system
+
+Available in both Arabic and Kurdish, our operating system will allow decentralized file sharing system for people to easily collaborate on projects. We will load it with all programs for local media work, such as video editing, audio editing, image editing, documents & office software. It will also include an automatic rollback filesystem, which saves the entire history of files allowing recovery or easy reversion.
+
+5. Mixnetwork
+
+We will also deploy mixnets that will anonymize people’s traffic, protecting them for network analysis by the state. Using a mixnet, the state cannot target individuals because all network traffic looks like noise, and there is no overall map of the network. The system guarantees that everybody is automatically secure with very little effort from the user.
+
+6. Beginner developer tools
+
+We want to build developer frameworks for the simple deployment of cryptographic and decentralized programs. Using these frameworks, people with a lower level of technical knowledge can quickly create new systems with minimal effort. The frameworks give access to code libraries with complex algorithms in an easy-to-use way. It allows for the faster deployment of complex systems with wide functionality. In this way, smart, young people without deep technical knowledge can assist in developing projects. With such frameworks, societies can collectively manage their own resources. This opens an opportunity for people to affect society.
+
+7. Anonymous decentralized software
+
+With anonymous cryptocurrency, we can reduce the cost of transactions to below 0.5%. The flow of currency is outside control of the state and anonymous, allowing the citizens of North Syria to freely transact amongst themselves.
+    
+Other uses of anonymous decentralized software include:   
+    • System for decentralized elections in which anyone can express their voice democratically and participate politically.
+    • System for the collective ownership of resources, with in-built incentive mechanisms. For example, such systems could allow farmers to gain investment on new agriculture projects by deploying an exchange to allow them to leverage assets.
+    • Systems to allow people to monitor political processes and their results.
+    • Programs for project management, the distribution of work and aggregating information. Using this, groups can quickly and seamlessly self-organize around societal projects.
+    • Algorithmic legal systems whereby results are quickly made in a process that doesn’t rely on multiple people.
+    • Cryptocurrency for establishing social projects. For example a city a municipality can create its own currency, which people in the city use. As the usage of the currency increases, the city is able to use that value for supporting infrastructure projects.
+    • System for distribution of products in the society. People can in an easy way find local products throughout the canton, and the system self-organizes the distribution of these products. Financial tools can also increase the effectiveness of the cooperative.
+    • Other mechanisms for strengthening the democratic nation project. We are researching new ideas from around the world, to start modern projects. Technology from North Syria will be a leading example around the world.
+      
+8. Academies
+
+We will establish academies to spread technical knowledge throughout North Syria. In art & culture centers of every city, there will be regular seminars on the latest world developments in technology. A large organized group of volunteers through the society which work on social projects. From this large group, we will find good people with the will, knowledge and philosophy to work on technical projects.
+
+9. Technology for the ecological industries
+
+With digital platforms, a diverse array of industry can be support through the spread of knowledge and ideas. In our work, we are interested in the potential for autonomous machines for agriculture, and are researching information for increasing the efficiency of our systems.
+
+This includes:
+   • Evaluating the genetics of agriculture.
+   • Creating an information bank.
+   • Researching the automatic monitoring of the quality of agriculture products.
+   • Systems that gather information and give us knowledge, for example when to optimally water plans.
+   • Systems that work with statistical and mathematical analysis.
+
+9. Media and media technology
+
+We are researching the interaction of human behaviour, media and technology. In particular, we are exploring how we can use media for the distribution of new concepts and images. At the technological committe, part of our work includes providing services for media work, as well as the creation of a special group concerned with media and technology. Here, we will seek to provide infrastructure for media archives, special effects for media (SFX), as well as assistance with small scripting and programming.
